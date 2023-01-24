@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Cognition and Mental Health Lab
+title: Social Computation and Cognitive Representation Lab
 background: "assets/theme/images/SoccrStreamEdit.png"
 permalink: /
 ---
