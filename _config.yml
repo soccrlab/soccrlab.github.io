@@ -1,20 +1,20 @@
 #Build settings
-name: Cognition and Mental Health Lab
-author: Alex Pike
+name: Social Computation and Cognitive Representation Lab
+author: Joseph M Barnby
 markdown: kramdown
 remote_theme: peterdesmet/petridish
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # SITE SETTINGS
-title: Cognition and Mental Health Lab  # Title in top navigation bar (navbar) and <head>
+title: Social Computation and Cognitive Representation Lab  # Title in top navigation bar (navbar) and <head>
 description: Test                       # Site description in <head>
 author: Alex Pike                       # Used for copyright statement in footer
 
 # SOCIAL PROFILES
-email: alex.pike@york.ac.uk             # Social icon in footer
-twitter_username: Alexandra_Pike        # Social icon in footer
-github_username: cognition-mental-health # Social icon in footer
+email: joseph.barnby@rhul.ac.uk             # Social icon in footer
+twitter_username: joebarnby        # Social icon in footer
+github_username: soccrlab # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 4                        # Show x number of latest posts on homepage, can be 0
