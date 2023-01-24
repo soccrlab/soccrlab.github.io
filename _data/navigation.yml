@@ -1,0 +1,16 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
+  href: /
+- text: People
+  href: /people/
+- text: Publications
+  href: /pubs/
+- text: Vacancies
+  href: /vacancies/
+- text: Blog
+  href: /blog/
+- text: Code
+  href: https://github.com/soccrlab
+
+

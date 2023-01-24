@@ -1,0 +1,31 @@
+# Project team members listed below will appear on the /team page
+
+- name: Joseph M. Barnby
+  role: PI # Will appear next to name
+  image: assets/theme/images/PersonalPhoto. # Can be external link
+  description: >
+    I'm a Lecturer at the <a href="https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/">Department of Psychology at Royal Holloway, University of London</a>. 
+    I am interested in computational modelling (particularly Bayesian models), psychopharmacology, and psychometrics. I have experience working in the fields of psychosis and Corpus Callosum Dysgenesis.
+    
+    Previously, I was a postdoctoral researcher at <a href="https://qbi.uq.edu.au/">Queensland Brain Institute</a>, where I was part of the <a href="https://sites.wustl.edu/richardslab/" >Brain Development and Disorders Lab</a>, working with <a href="https://www.kyb.tuebingen.mpg.de/person/95844/60427"> Professor Peter Dayan </a> and <a href="https://neuroscience.wustl.edu/people/linda-richards-phd/"> Professor Linda Richards</a>. 
+    I completed my PhD at the <a href="https://www.kcl.ac.uk/ioppn">Institute of Psychiatry, Psycholgoy, and Neuroscience</a> at <a href="https://www.kcl.ac.uk">King's College London</a>. 
+    
+    During my PhD, I worked on paranoia and social dynamics, using a range of methods, including computational modelling, game theory, and psychopharmacology.
+    
+    My PhD supervisors were <a href="https://www.kcl.ac.uk/people/mitul-mehta">Professor Mitul Mehta</a>, <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=VBELL56">Assoc. Prof Vaughan Bell</a>, and <a href="https://www.kcl.ac.uk/people/quinton-deeley"><Prof Quinton Deeley</a>.
+    
+    I have previously completed an MSc in Clinical Mental Health and a BSc in Psychology and Neuroscience.
+  orcid: 0000-0001-6002-1362
+  gscholar: Shx_DBYAAAAJ&hl
+  twitter: joebarnby
+  github: josephmbarnby
+  email: joseph.barnby@rhul.ac.uk
+  
+- #name: Lucy Stafford
+  #role: PhD Student (second supervision)
+  #image: assets/theme/images/lstafford.jpg
+  #description: >
+  #  My name is Lucy Stafford and I am a <a href="https://www.york.ac.uk/study/undergraduate/courses/msci-psychology/">Masters of Science in Psychology</a> graduate from the University of York. I am currently studying for a Masters of Art in Social Research, also at the University of York, as part of the <a href="https://wrdtp.ac.uk/wrdtp-aqm-awards-2023-24/">1+3 Advanced Quantitative Methods funding</a> I received from the Economic and Social Research Council. I will officially start my PhD in the Autumn of 2023. 
+  #  
+  #  My research interests include interoception, body image, eating behaviours and disorders, and food choices. My PhD research will explore the relationships between gastric interoception, body image, and food choices. 
+  #email: lucy.stafford@york.ac.uk
