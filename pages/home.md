@@ -11,7 +11,9 @@ permalink: /
     <p>If you are interested in joining the lab, please see the <a href="/vacancies/">Vacancies page</a>. </p>
 	<br>
 	<br>
-	<img src="assets/theme/images/LabPictureIdea.jpg">
+	<p>
+	<img src="assets/theme/images/LabPictureIdea.jpg" alt='LabPicture'>
+	</p>	
 <br/>
 <br/>
 <br/>
