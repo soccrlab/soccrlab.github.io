@@ -12,7 +12,7 @@ permalink: /
 	<br>
 	<br>
 	<p>
-	<img src="assets/theme/images/LabPictureIdea.jpg" alt='LabPicture'>
+	<img src="assets/theme/images/LabPictureIdea.png" alt='LabPicture'>
 	</p>	
 <br/>
 <br/>
