@@ -4,11 +4,11 @@ author: Joseph M Barnby
 markdown: kramdown
 remote_theme: peterdesmet/petridish
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # SITE SETTINGS
 title: Social Computation and Cognitive Representation Lab  # Title in top navigation bar (navbar) and <head>
-description: Test                       # Site description in <head>
+description: Splash                     # Site description in <head>
 author: Joseph M Barnby                 # Used for copyright statement in footer
 
 # SOCIAL PROFILES
