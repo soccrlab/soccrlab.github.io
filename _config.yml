@@ -9,7 +9,7 @@ plugins:
 # SITE SETTINGS
 title: Social Computation and Cognitive Representation Lab  # Title in top navigation bar (navbar) and <head>
 description: Test                       # Site description in <head>
-author: Joe Barnby                      # Used for copyright statement in footer
+author: Joseph M Barnby                 # Used for copyright statement in footer
 
 # SOCIAL PROFILES
 email: joseph.barnby@rhul.ac.uk             # Social icon in footer
