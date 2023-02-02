@@ -1,6 +1,6 @@
-# Cognition and Mental Health Lab website
+# Social Computation and Cognitive Representation (SoCCR Lab) Website
 
-Welcome to the Cognition and Mental Health Lab website!
+Welcome to the SoCCR lab website!
 
 Here is the code that builds pages that correspond to the team members, our publications, our news, and our vacancies. 
 
